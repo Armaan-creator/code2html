@@ -1,7 +1,7 @@
 [code2html](http://ssinica.github.com/code2html/)
 =========== 
 
-Code2Html is library which converts code to HTML.
+Look Code2Html is library which converts code to HTML.
 
 When you may need it?
 ---------------------
